@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://www.linkedin.com/in/diego-brum-azevedo-009973237/
 -->
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)
