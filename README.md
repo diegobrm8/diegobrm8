@@ -14,3 +14,4 @@
 
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobrm8&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobrm8&hide_progress=true)](https://github.com/diegobrm8/github-readme-stats)
