@@ -14,4 +14,7 @@
 
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobrm8&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobrm8&layout=compact)](https://github.com/diegobrm8)
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobrm8&layout=compact&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=diegobrm8&show_icons=true&theme=dracula&hide_border=true" />
+</div>
