@@ -13,4 +13,4 @@
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)
 
 
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobrm8&show_icons=true&theme=radical)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegobrm8&show_icons=true&theme=radical)
