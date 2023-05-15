@@ -1,5 +1,5 @@
-# Hi 👋, I'm Diego
-## A passionate Backend developer from Brasil
+<h1 align="center">Hi 👋, I'm Diego</h1>
+<h3 align="center">A passionate Backend developer from Brasil</h3>
 
 - 🌱 I’m currently learning **Modulos Python (sys, json, selenium), Django e Machine Learning.**
 
@@ -7,14 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/diego-brum-azevedo-009973237/](https://www.linkedin.com/in/diego-brum-azevedo-009973237/)
 
-### Connect with me:
-
-[![dev.to](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to/diegobrm8)
-[![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/diego-brum-azevedo-009973237/)
-
-### Languages and Tools:
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/diegobrm8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="diegobrm8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-brum-azevedo-009973237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-brum-azevedo-009973237/" height
